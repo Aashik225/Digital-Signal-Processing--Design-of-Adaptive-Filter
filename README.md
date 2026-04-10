@@ -95,5 +95,6 @@ title('Error Signal');
 
 
 ## RESULT:
-<img width="1600" height="482" alt="image" src="https://github.com/user-attachments/assets/64d3f883-1d4f-46e6-b43c-d31da47ca38f" />
+
+![WhatsApp Image 2026-04-10 at 6 48 02 PM (2)](https://github.com/user-attachments/assets/cc5b43f8-0a9b-463d-aa09-bbb4e3642584)
 
